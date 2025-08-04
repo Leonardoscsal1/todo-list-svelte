@@ -1,6 +1,6 @@
 # Descrição do objetivo
 
-Um [mini-projeto](link do site) criado com o fim de apresentar e ensinar a como instalar e utilizar a ferramenta [Sveltejs](https://svelte.dev/), além de alguns plugins, e utiliza-los em um site de tarefas(Conhecido também como To-do List). Esse projeto foi realizado como parte de uma atividade da disciplina de WEB I para o curso Bacharelado em Sistemas de Informação.
+Um [mini-projeto](https://todo-list-svelte-ten.vercel.app/) criado com o fim de apresentar e ensinar a como instalar e utilizar a ferramenta [Sveltejs](https://svelte.dev/), além de alguns plugins, e utiliza-los em um site de tarefas(Conhecido também como To-do List). Esse projeto foi realizado como parte de uma atividade da disciplina de WEB I para o curso Bacharelado em Sistemas de Informação.
 
 # Descrição para instalação dos softwares necessários
 
@@ -21,7 +21,7 @@ No Windows, você pode usar o PowerShell
 2. Crie o projeto svelte:
 Só seguir a linha de comnado e setar o Svelte como desejar (Caso tenha alguma dúvida nessa parte irei deixar o link do site de instalação do Svelte [Sveltejs-Tutorial](https://svelte.dev/docs/svelte/getting-started))
 
-![Captura de tela das linhas de comnado para criar.](/src/lib/assets/Captura%20de%20tela1.png)
+![Captura de tela das linhas de comnado para criar.](/src/lib/assets/Capturadetela1.png)
 
 3. Projeto criado e instalado:
 Após o projeto está criado e o Svelte estiver instalado, você pode dar um code . para abrir o Vscode e logo em seguida abrir o terminal do VsCode e digitar npm run dev para iniciar o servidor de desenvolvimento.
@@ -37,7 +37,7 @@ Você já está pronto para desenvolver seu projeto com Svelte!
 
 # Desenvolvimento
 
-Vou mostrar um pouco do desenvolvimento do mini-projeto mas caso deseje irei deixar o link da publicação pelo vercel [mini-projeto](link do site)
+Vou mostrar um pouco do desenvolvimento do mini-projeto mas caso deseje irei deixar o link da publicação pelo vercel [mini-projeto](https://todo-list-svelte-ten.vercel.app/)
 
 Primeiramente eu pensei em como minha estrutura funcionaria e logo após isso já visualizei quais componentes precisaria e então criei uma pasta dentro da src/lib/ chamada components e dentro dessa paste eu criei meus components como mostra a imagem abaixo:
 
@@ -49,11 +49,11 @@ Irei mostrar também o antes e depois do site:
 
 No íncio do projeto:
 
-[Ínicio do projeto.](/src/lib/assets/Capturadetela5.png)
+![Ínicio do projeto.](/src/lib/assets/Capturadetela5.png)
 
 Final do projeto:
 
-[Mini-projeto pronto.](/src/lib/assets/Capturadetela6.png)
+![Mini-projeto pronto.](/src/lib/assets/Capturadetela6.png)
 
 # Desenvolvedores
 
