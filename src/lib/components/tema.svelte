@@ -1,11 +1,11 @@
 <script>
-	function toggle() {
+	function mudarTema() {
 		window.document.body.classList.toggle('dark-mode');
 	}
 </script>
 
-<button onclick={toggle}>
-	<slot />
+<button onclick={mudarTema}>
+	Tema
 </button>
 
 <style>

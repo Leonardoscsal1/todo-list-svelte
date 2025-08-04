@@ -1,5 +1,6 @@
 <script lang="ts">
-	let { todo, deleteTodo, editTodo } = $props();
+	type Todo = {text:string; completed:boolean;}
+	let { todo, deleteTodo, editTodo } :{todo:Todo; deleteTodo:(td:Todo) => void; editTodo:(td:Todo, newTodo:string) => boolean;}= $props();
 	let isEditing = $state(false);
 	let newTodo = $state('');
 	const confirmChange = () => {

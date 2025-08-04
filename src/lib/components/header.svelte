@@ -8,7 +8,7 @@
 		<img alt="Logo do Projeto" src={Favicon} />
 	</a>
 	<h1>To-do List</h1>
-	<Tema>Tema</Tema>
+	<Tema/>
 </div>
 
 <style>

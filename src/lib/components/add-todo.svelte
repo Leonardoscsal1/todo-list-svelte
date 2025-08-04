@@ -1,5 +1,7 @@
 <script lang="ts">
-	let { list } = $props();
+	type Todo = { text: string; completed: boolean };
+
+	let { list }: { list: Todo[] } = $props();
 	let newTodo = $state('');
 
 	const addTodo = () => {
