@@ -4,7 +4,7 @@
 	let { list }: { list: Todo[] } = $props();
 	let newTodo = $state('');
 
-	const addTodo = () => {
+	function addTodo() {
 		if (list.some((todo) => !todo.completed && todo.text == newTodo.trim())) {
 			alert('Não pode adicionar a mesma tarefa!');
 			return;
@@ -15,7 +15,7 @@
 		}
 		list.push({ text: newTodo, completed: false });
 		newTodo = '';
-	};
+	}
 </script>
 
 <h2>Tarefas</h2>

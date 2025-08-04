@@ -7,24 +7,24 @@ Um [mini-projeto](https://todo-list-svelte-ten.vercel.app/) criado com o fim de 
 Para o desenvolvimento desse mini-projeto, será necessário:
 
 - O editor de código [Visual Studio Code](https://code.visualstudio.com/Download), e
-- A *runtime* [Node.js](https://nodejs.org/pt/download).
+- A _runtime_ [Node.js](https://nodejs.org/pt/download).
 
 # Passo-a-Passo para o desenvolvimento
 
 Pré-requisitos:
-    VS Code instalado
-    Node.js instalado (versão 14 ou superior).
+VS Code instalado
+Node.js instalado (versão 14 ou superior).
 
 1. Abra o terminal do seu sistema:
-No Windows, você pode usar o PowerShell
+   No Windows, você pode usar o PowerShell
 
 2. Crie o projeto svelte:
-Só seguir a linha de comnado e setar o Svelte como desejar (Caso tenha alguma dúvida nessa parte irei deixar o link do site de instalação do Svelte [Sveltejs-Tutorial](https://svelte.dev/docs/svelte/getting-started))
+   Só seguir a linha de comnado e setar o Svelte como desejar (Caso tenha alguma dúvida nessa parte irei deixar o link do site de instalação do Svelte [Sveltejs-Tutorial](https://svelte.dev/docs/svelte/getting-started))
 
 ![Captura de tela das linhas de comnado para criar.](/src/lib/assets/Capturadetela1.png)
 
 3. Projeto criado e instalado:
-Após o projeto está criado e o Svelte estiver instalado, você pode dar um code . para abrir o Vscode e logo em seguida abrir o terminal do VsCode e digitar npm run dev para iniciar o servidor de desenvolvimento.
+   Após o projeto está criado e o Svelte estiver instalado, você pode dar um code . para abrir o Vscode e logo em seguida abrir o terminal do VsCode e digitar npm run dev para iniciar o servidor de desenvolvimento.
 
 ![Captura de tela da linhas de comnado para iniciar o VsCode.](/src/lib/assets/Capturadetela2.png)
 
@@ -33,7 +33,7 @@ Após o projeto está criado e o Svelte estiver instalado, você pode dar um cod
 ![Captura de tela da estrutura básica do Svelte.](/src/lib/assets/Capturadetela3.png)
 
 5. Pronto!:
-Você já está pronto para desenvolver seu projeto com Svelte!
+   Você já está pronto para desenvolver seu projeto com Svelte!
 
 # Desenvolvimento
 
@@ -45,7 +45,7 @@ Primeiramente eu pensei em como minha estrutura funcionaria e logo após isso j�
 
 Apos isso eu comecei a desenvolver cada component do meu site um por um e isso me ajudou bastante pois eu achei mais fácil montar um site parte por parte sem ficar perdido já que está tudo setado em arquivos .svelte.
 
-Irei mostrar também o antes e depois do site: 
+Irei mostrar também o antes e depois do site:
 
 No íncio do projeto:
 

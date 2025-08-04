@@ -4,9 +4,7 @@
 	}
 </script>
 
-<button onclick={mudarTema}>
-	Tema
-</button>
+<button onclick={mudarTema}> Tema </button>
 
 <style>
 	button {
@@ -17,7 +15,7 @@
 		margin: 50px;
 		padding: 15px;
 		text-transform: uppercase;
-        cursor: pointer;
+		cursor: pointer;
 	}
 	:global(body.dark-mode) button {
 		background-color: rgb(32, 18, 70);

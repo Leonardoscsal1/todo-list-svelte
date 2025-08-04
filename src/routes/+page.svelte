@@ -2,7 +2,7 @@
 	import Header from '$lib/components/header.svelte';
 	import List from '$lib/components/list.svelte';
 	type Todo = { text: string; completed: boolean };
-	const list:Todo[] = $state([]);
+	const list: Todo[] = $state([]);
 </script>
 
 <main>
