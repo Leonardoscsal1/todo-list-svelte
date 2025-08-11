@@ -26,11 +26,11 @@ Node.js instalado (versão 14 ou superior).
 3. Projeto criado e instalado:
    Após o projeto está criado e o Svelte estiver instalado, você pode dar um code . para abrir o Vscode e logo em seguida abrir o terminal do VsCode e digitar npm run dev para iniciar o servidor de desenvolvimento.
 
-![Captura de tela da linhas de comnado para iniciar o VsCode.](/src/lib/assets/Capturadetela2.png)
+![Captura de tela da linhas de comnado para iniciar o VsCode.](/src/lib/assets/Capturadetela3.png)
 
 4. Estrutura básica!:
 
-![Captura de tela da estrutura básica do Svelte.](/src/lib/assets/Capturadetela3.png)
+![Captura de tela da estrutura básica do Svelte.](/src/lib/assets/Capturadetela2.png)
 
 5. Pronto!:
    Você já está pronto para desenvolver seu projeto com Svelte!
@@ -61,3 +61,7 @@ Final do projeto:
 - [Jhonatan Santana]
 - [Everton Gabriel]
 - [Rafael Batista]
+
+# Referências
+
+Foram utilizados diversos recursos para o desenvolvimento, incluindo tutoriais no YouTube, o ChatGPT, cursos de Svelte e o próprio site oficial do Svelte, que disponibiliza tutoriais práticos e um playground para testar códigos.
